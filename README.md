@@ -1,2 +1,2 @@
-# bootcodingCIT
+# bootcoding-cit
 learning java
